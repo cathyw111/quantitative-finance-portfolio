@@ -17,3 +17,13 @@ Each repository describes its inputs, implementation or documentary scope, and t
 ## Achievement
 
 [WorldQuant Challenge — Gold Level certificate](worldquant-gold-certificate.pdf), awarded to Wang Yafei. The certificate records achievement of Gold Level; it does not state a competition rank or return figure.
+
+## PDF downloads
+
+If GitHub's PDF preview is unavailable, use the direct file links below or the **Download raw file** button on a PDF's repository page.
+
+- [Bitcoin research draft](https://raw.githubusercontent.com/cathyw111/bitcoin-volatility-forecasting/main/research-draft.pdf)
+- [Bitcoin research presentation](https://raw.githubusercontent.com/cathyw111/bitcoin-volatility-forecasting/main/presentation.pdf)
+- [Regression coursework output](https://raw.githubusercontent.com/cathyw111/quadratic-launch-angle-regression/main/original-analysis.pdf)
+- [Portfolio case presentation](https://raw.githubusercontent.com/cathyw111/diversified-portfolio-case-study/main/presentation.pdf)
+- [WorldQuant Gold certificate](https://raw.githubusercontent.com/cathyw111/quantitative-finance-portfolio/main/worldquant-gold-certificate.pdf)
